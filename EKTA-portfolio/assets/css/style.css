@@ -227,9 +227,9 @@ nav ul li a {
 #hero {
   background: url("../img/home-bg.jpg") no-repeat scroll center center/cover;
   height: 100vh;
-  width: 100%;
-  background-size: 90%;
-  position: relative;
+  width: 100vw;
+  background-size: 100%;
+  background-position: center;
 }
 
 #hero .hero-content {
