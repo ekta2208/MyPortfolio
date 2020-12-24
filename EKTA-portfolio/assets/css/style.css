@@ -228,7 +228,7 @@ nav ul li a {
   background: url("../img/home-bg.jpg") no-repeat scroll center center/cover;
   height: 100vh;
   width: 100%;
-  background-size: 100%;
+  background-size: 95%;
   position: relative;
 }
 
