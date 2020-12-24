@@ -226,9 +226,8 @@ nav ul li a {
 --------------------------------------------------------------*/
 #hero {
   background: url("../img/home-bg.jpg") repeat scroll left center/cover;
-  height: 100vh;
+  height: 70vh;
   width: 100%;
-  justify-content: top
 }
 
 #hero .hero-content {
