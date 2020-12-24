@@ -226,7 +226,7 @@ nav ul li a {
 --------------------------------------------------------------*/
 #hero {
   background: url("../img/home-bg.jpg") no-repeat left center/cover;
-  height: 100vh;
+  height: 80vh;
   width: 100vw;
   position: relative;
   background-position: left 65%;
