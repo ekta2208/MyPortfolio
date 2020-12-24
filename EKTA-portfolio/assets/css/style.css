@@ -225,15 +225,15 @@ nav ul li a {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("../img/home-bg.jpg") repeat scroll left center/cover;
-  height: 70vh;
-  width: 100%;
+  background: url("../img/home-bg.jpg") repeat scroll right center/cover;
+  height: 80vh;
+  width: 80% center;
 }
 
 #hero .hero-content {
   height: 100vh;
   text-align: left;
-  width: 100%;
+  width: 80%;
   display: flex;
   justify-content: center;
   flex-direction: column;
